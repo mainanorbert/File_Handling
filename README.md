@@ -12,8 +12,10 @@ The goal is to provide a unified view of the data from various sources in a stru
 - pony.orm
 ## Setup
 1. Clone repository.
+
 ```sh
 git clone https://github.com/mainanorbert/File_Hnadling.git
+
 2. Move into the directory
 ```sh
 cd File_Handling
