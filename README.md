@@ -22,3 +22,17 @@ To set up the project and run it locally:
  3. Run the the program
     ```
     python3 File_Integration_function
+
+1. Clone the repository:
+   ```bash
+   git clone [repository_url]
+2. Navigate to the project directory:
+   ```bash
+   cd Reward_System
+3. Configure the Django settings:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
