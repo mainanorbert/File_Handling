@@ -11,13 +11,14 @@ The goal is to provide a unified view of the data from various sources in a stru
 - xml.etree.ElementTree
 - pony.orm
 ## Setup
+To set up the project and run it locally:
+
  1. Clone repository.
    ```bash
    git clone https://github.com/mainanorbert/File_Handling.git
-
  2. Navigate into the repository
     ```bash
     cd File_Handling
  3. Run the the program
-    ```sh
+    ```
     python3 File_Integration_function
