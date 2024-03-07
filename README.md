@@ -12,7 +12,12 @@ The goal is to provide a unified view of the data from various sources in a stru
 - pony.orm
 ## Setup
  1. Clone repository.
- ```sh
- git clone https://github.com/mainanorbert/File_Handling.git
+   ```sh
+   git clone https://github.com/mainanorbert/File_Handling.git
 
- 2. Change into the res
+ 2. Navigate into the repository
+    ```sh
+    cd File_Handling
+ 3. Run the the program
+    ```sh
+    python3 File_Integration_function
