@@ -19,5 +19,5 @@ To set up the project and run it locally:
    ```bash
    cd File_Handling
 3. Run the the program:
-   sh```
+   ```sh
    python3 File_Integration_function
