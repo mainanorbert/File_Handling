@@ -3,14 +3,19 @@ This project aims to read data from different types of files (CSV, JSON, XML), p
 The goal is to provide a unified view of the data from various sources in a structured format in the database.
 # How to Use
 ## Prerequisites
+
+### Programs
 - Python 3.x
+- [pony.orm](#Setup)
 - MySQL database
 [How to install Myql Database](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
-- csv
-- json
-- xml.etree.ElementTree
-- pony.orm
-## Setup
+
+### Files to use
+- csv (For test use `user_data_23_4.csv`)
+- json (For test use `user_data_23_4.xml`)
+- xml.etree.ElementTree (For test use `user_data_23_4.xml`)
+
+## Setup the Project
 To set up the project and run it locally:
 1. Clone repository:
    ```sh
