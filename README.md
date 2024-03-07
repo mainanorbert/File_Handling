@@ -11,9 +11,9 @@ The goal is to provide a unified view of the data from various sources in a stru
 [How to install Myql Database](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
 
 ### Files to use
-- csv (For test use `user_data_23_4.csv`)
-- json (For test use `user_data_23_4.xml`)
-- xml.etree.ElementTree (For test use `user_data_23_4.xml`)
+- csv (For test use `user_data_23_4.csv` in the project directory)
+- json (For test use `user_data_23_4.xml` in the project directory)
+- xml.etree.ElementTree (For test use `user_data_23_4.xml` in the project directory)
 
 ## Setup the Project
 To set up the project and run it locally:
